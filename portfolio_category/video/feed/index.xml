@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Videos &#8211; giovana ansoain</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>graphic designer</description>
+	<lastBuildDate>Mon, 19 Jun 2017 16:59:59 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.4</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2016/07/Loguinho-48x50.png</url>
+	<title>Videos &#8211; giovana ansoain</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Agonia</title>
+		<link>./../../../portfolio/agonia/index.html</link>
+		<comments>./../../../portfolio/agonia/index.html#respond</comments>
+		<pubDate>Tue, 13 Oct 2015 21:28:57 +0000</pubDate>
+		<dc:creator><![CDATA[giovanaansoain]]></dc:creator>
+		
+		<guid isPermaLink="false">./../../../index.html?post_type=portfolio&#038;p=36</guid>
+		<description><![CDATA[&#160; Esse curta foi idealizado com o objetivo de causar agonia no espectador. A mistura de suspense e objetos pontiagudos garantem que você vai se arrepiar ao vê-lo. Vídeo: Eu Foto: Eu e Victor Hugo Produção e roteiro: Eu, Giovanna Fernandes, Thaila Barradas e Victor Hugo Assistentes de produção: Leandro Romano e Bruna Magluta Edição: Leonardo Vicente [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>&nbsp;</p>
+<p>Esse curta foi idealizado com o objetivo de causar agonia no espectador. A mistura de suspense e objetos pontiagudos garantem que você vai se arrepiar ao vê-lo.</p>
+<p>Vídeo: Eu</p>
+<p>Foto: Eu e Victor Hugo</p>
+<p>Produção e roteiro: Eu, Giovanna Fernandes, Thaila Barradas e Victor Hugo</p>
+<p>Assistentes de produção: Leandro Romano e Bruna Magluta</p>
+<p>Edição: Leonardo Vicente e Victor Hugo</p>
+<p>Sonoplastia: Gilberto Grego e Victor Hugo</p>
+<p>Ator: Matheus Coimbra</p>
+]]></content:encoded>
+			<wfw:commentRss>./../../../portfolio/agonia/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
